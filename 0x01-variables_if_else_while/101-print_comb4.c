@@ -13,7 +13,7 @@ int main(void)
 
 	for (m = 48; m < 58; m++)
 	{
-		
+
 		for (n = m + 1; n < 58; n++)
 		{
 			for (p = n + 1; p < 58; p++)
