@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 /**
  * main - main
  *
@@ -8,7 +8,7 @@
 int main(void)
 {
 	char text[8] = "_putchar";
-	
+
 	int i = 0;
 
 	while (i < 8)
@@ -17,5 +17,5 @@ int main(void)
 		i++;
 	}
 	_putchar('\n');
-	return (0)
+	return (0);
 }
